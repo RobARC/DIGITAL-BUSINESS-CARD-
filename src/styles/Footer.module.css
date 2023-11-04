@@ -1,0 +1,31 @@
+.footer{
+    width: 317px;
+    height: 64px;
+    background-color: #161619;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0 0 15px 15px;
+}
+
+.twitterIcon{
+    padding: 1em;
+    cursor: pointer;
+}
+.facebookIcon{
+    padding: 1em;
+    cursor: pointer;
+}
+.instagramIcon{
+    padding: 1em;
+    cursor: pointer;
+}
+.gitIcon{
+    padding: 1em;
+    cursor: pointer;
+}
+.linkedInIcon{
+    padding: 1em;
+    cursor: pointer;
+}

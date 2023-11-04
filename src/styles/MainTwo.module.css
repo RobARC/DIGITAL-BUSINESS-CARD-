@@ -1,0 +1,114 @@
+.h1{
+    margin-top: -5px;
+    margin-bottom: 5px;
+    padding-top: 17px;
+    color: #1A1B21;
+    font-family:'Inter', sans-serif;
+    font-style: bold;
+    font-size: 25px;
+  }
+
+  .h2 {
+    margin:0;
+    color:#2B283A;
+    font-family:'Inter', sans-serif;
+    font-style: bold;
+    font-size: 16px;
+    text-align: left;
+    
+  }
+  .h3{
+    margin: 0;
+    color: #F3BF99;
+    font-family:'Inter', sans-serif;
+    font-size: 13px;
+  
+  }
+  .h5{
+    margin: 0;
+    color: #4A4E74;
+    font-family:'Inter', sans-serif;
+    font-size: 10px;
+  
+  }
+  .buttons{
+    padding: 1em;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+  
+    
+  }
+  
+  .buttonEmail{
+    margin: 5px;
+    display: flex;
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+    border: solid 1px #D1D5DB;
+    justify-content: center;
+    align-items: center;
+    font-family:'Inter', sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+   
+
+  }
+  .buttonLinkedIn{
+    margin: 5px;
+    display: flex;
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+    border: solid 1px #297FE5;
+    justify-content: center;
+    align-items: center;
+    font-family:'Inter', sans-serif;
+    font-size: 14px;
+    background-color: #297FE5;
+    cursor: pointer;
+  }
+
+  .emailIcon{
+    padding: .5em;
+    width: 16px;
+    height: 16px;
+   
+  }
+
+  .linkedIcon{
+    padding: .5em;
+    width: 16px;
+    height: 16px;
+   
+  }
+  .emailP{
+    color: white;
+  }
+
+  .p{
+    margin-bottom: 15px;
+    color: #4A4E74;
+    justify-content: left;
+    text-align: left;
+    font-family:'Inter', sans-serif;
+    font-size: 11px;
+  }
+
+  .about{
+    
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: center;
+    align-items: center;
+    width: 237px;
+    height: 201px;
+    background-color: #F5F5F5;
+  }
+
+  .header{
+    
+    background-color: #F5F5F5;
+    width: 317px;
+  }
